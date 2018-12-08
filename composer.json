@@ -1,0 +1,29 @@
+{
+  "name": "phpkeks/mysilex",
+  "description": "The silex hook for __construct() controllers method (Silex v2)",
+  "versions": "1.0",
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.7"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/kekstlt/mysilex"
+    }
+  ],
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "MySilex\\": "/src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roman Petrov",
+      "email": "keks.tlt@gmail.com"
+    }
+  ]
+}
