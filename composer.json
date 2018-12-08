@@ -1,12 +1,12 @@
 {
-  "name": "phpkeks/mysilex",
+  "name": "kekstlt/mysilex",
   "description": "The silex hook for __construct() controllers method (Silex v2)",
   "versions": "1.0",
   "type": "project",
   "license": "MIT",
   "minimum-stability": "dev",
   "require": {
-    "php": ">=5.7"
+    "php": ">=5.6"
   },
   "repositories": [
     {
